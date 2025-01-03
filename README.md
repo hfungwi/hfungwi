@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @hfungwi
-- 👀 I’m interested in ... coding, computers and tech and a whole, Databases
+- 👀 I’m interested in ... Databases, Linux, SQL, coding, computers and tech as a whole
 - 🌱 I’m currently learning ... how to program and build websites using html, css and javascript
-- 💞️ I’m looking to collaborate on ... building an ecommerce website
+- 💞️ I’m looking to collaborate on ... Any Linux projects
 - 📫 How to reach me ... harrisfungwi14@gmail.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I love soccer and I am a liverpool fan 
+- ⚡ Fun fact: ... I love soccer 
 
 <!---
 hfungwi/hfungwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
