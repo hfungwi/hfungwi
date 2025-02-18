@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hfungwi
 - 👀 I’m interested in ... Databases, Linux, SQL, coding, computers and tech as a whole
-- 🌱 I’m currently learning ... how to program and build websites using html, css and javascript
+- 🌱 I’m currently learning ... how to program in python
 - 💞️ I’m looking to collaborate on ... Any Linux projects
 - 📫 How to reach me ... harrisfungwi14@gmail.com
 - 😄 Pronouns: ... he/him
