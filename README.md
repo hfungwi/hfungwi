@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hfungwi
 - 👀 I’m interested in ... Databases, Linux, SQL, coding, computers and tech as a whole
-- 🌱 I’m currently learning ... how to program in python
-- 💞️ I’m looking to collaborate on ... Any Linux projects
+- 🌱 I’m currently learning ... how to program in java
+- 💞️ I’m looking to collaborate on ... Any database projects
 - 📫 How to reach me ... harrisfungwi14@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love soccer 
